@@ -1,6 +1,6 @@
 # Compiling-C-plus-plus-on-terminal
 <h1> running your C++ code on terminal </h1>
-<p>the various ways to get your code to compile on your terminal are very time consuming this repo is merely to serve as a quick to get going </p>
+<p>the various ways to get your code to compile on your terminal is very time consuming this repo is to serve as a quick and dirty way to get it to compile immediately </p>
 <h2>scripts</h2>
 <p>The main scripts you would want to include are </p>
 <ol>
