@@ -10,3 +10,10 @@
   this complies your C++ code 
   <h2>res directory </h2>
   this is where you store your input files
+  <h1> how to use </h1>
+  <li><ol>
+    <li>drag your cpp file to the src folder (you can delete the exsiting ones they are only they for guidance)</li>
+    <li> type g++ in your termnial and drag the file </li>
+    <li>this will generate a binary file resulting from your compiled C++ code "this excutable will be titled a.out"</li>
+    <li>in terminal type ./a.out to run the excutable and this will excute your code and display it in the terminal </li>
+    </ol>
