@@ -21,5 +21,5 @@
   <span>note it is recomended to run this scripts in the same project directory</span>
   <ol>
     <li>after righting your C++ script run build.sh script "this will generate a bin folder where it will store all your excutables</li>
-    <li>afte that type in your terminal run.sh "this will run the excutable"</li>
+    <li>after that type in your terminal run.sh "this will run the excutable"</li>
   </ol>
