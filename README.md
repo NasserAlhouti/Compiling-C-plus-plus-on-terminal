@@ -17,3 +17,9 @@
     <li>this will generate a binary file resulting from your compiled C++ code "this excutable will be titled a.out"</li>
     <li>in terminal type ./a.out to run the excutable and this will excute your code and display it in the terminal </li>
     </ol>
+  <h1>alternative way of using it </h1>
+  <span>note it is recomended to run this scripts in the same project directory</span>
+  <ol>
+    <li>after righting your C++ script run build.sh script "this will generate a bin folder where it will store all your excutables</li>
+    <li>afte that type in your terminal run.sh "this will run the excutable"</li>
+  </ol>
